@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a government technologist and applied researcher at the **National Informatics Centre (NIC)**, Ministry of Electronics & Information Technology, Government of India — stationed at the Nagaon District Centre, Assam.
+I'm a government technologist and applied researcher at the **National Informatics Centre (NIC)**, Ministry of Electronics & Information Technology, Government of India.
 
 My work sits at the intersection of **AI/ML research**, **network infrastructure**, and **civic technology** — building citizen-centric e-governance tools at the district level while pursuing research in explainable AI for software-defined networking.
 
